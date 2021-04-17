@@ -17,6 +17,8 @@ X:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars\ferrari_
 
 Weather System:
 
-extract Weather System.zip in: you steam assetto corsa in:
+download and look sol 2.0 install guide pdf
 
-X:\Program Files (x86)\Steam\steamapps\common\assettocorsa\extract here all contenut Weather System.zip
+;) Good lack.
+
+
