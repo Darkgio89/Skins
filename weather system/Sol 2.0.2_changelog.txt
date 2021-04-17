@@ -1,0 +1,9 @@
+Sol 2.0.2
+
+- core: deactivated garbage collection size counting
+# this will give you some fps back 
+# It can be reactivated with "debug runtime", sol_config page 13
+
+- info display: fixed black sky, if CSP version is unsupported
+# sky is red
+# distance is green
