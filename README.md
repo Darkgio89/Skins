@@ -17,6 +17,6 @@ X:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars\ferrari_
 
 Weather System:
 
-extract Weather.zip in: you steam assetto corsa in:
+extract Weather System.zip in: you steam assetto corsa in:
 
-X:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\extract here Weather.zip
+X:\Program Files (x86)\Steam\steamapps\common\assettocorsa\extract here all contenut Weather System.zip
